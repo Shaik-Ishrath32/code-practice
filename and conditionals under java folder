@@ -1,0 +1,28 @@
+[33m04fbc55[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Removed duplicate files from cpp/basics and dsa folders
+[33m58e3b36[m Removed duplicate process_simulation .c file
+[33m0d074e7[m Removed duplicate README .md files from os and python folders
+[33md79c4b5[m Removed duplicate root-level README .md file
+[33m684fbf6[m Removed duplicate README .md file
+[33mf38b4f9[m Cleaned repo: moved Java files and conditionals under java folder
+[33mf64e605[m Merge branch 'main' of https://github.com/Shaik-Ishrath32/code-practice
+[33m0ad0b75[m Resolved merge conflicts and staged changes
+[33m77a52d0[m Added new conditionals programs
+[33mcfe2098[m Clean setup: added practice programs (no class files)
+[33m462c536[m Added Java practice programs (no class files)
+[33ma431bd0[m Added new java code
+[33m510280d[m Update README.md
+[33m7db677b[m Added os folder with process simulation program and explanation
+[33m1f18ad3[m Added basic c++ hello world program
+[33m56ff4d4[m Added gitignore to ignore executables
+[33mad9c86b[m Removed duplicate hello.c and executable
+[33m7899bf7[m Merge resolved and added C code
+[33m5a657b0[m Add hello.c program
+[33m8cb2af4[m Create README.md
+[33m2e1bc52[m Create README.md
+[33m9544e94[m Create README.md
+[33m7d11a5e[m Create README.md
+[33meca3b2a[m Create README.md
+[33m35a3e16[m Create README.md
+[33m0e570de[m Added folders for c,c++.Java,Python,OS,DSA
+[33m06d088a[m Update README.md
+[33mc964fb7[m Initial commit
